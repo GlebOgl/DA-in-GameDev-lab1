@@ -97,7 +97,6 @@ plt.scatter(x,y)
 ![image](https://user-images.githubusercontent.com/79518116/192847872-d2410832-f182-4ba3-93e7-1fa18a88347c.png)
 
 
-```
 
 ## Задание 4
 ### Какова роль параметра Lr? Ответьте на вопрос, приведите пример выполнения кода, который подтверждает ваш ответ. В качестве эксперимента можете изменить значение параметра.
@@ -106,6 +105,7 @@ plt.scatter(x,y)
 (меняется loss)
 
 ![image](https://user-images.githubusercontent.com/79518116/192849263-8382fef0-8331-49a5-8883-7bed4f181155.png)
+
 ![image](https://user-images.githubusercontent.com/79518116/192849589-20449eb4-4e9d-48ac-b812-952042839351.png)
 
 
